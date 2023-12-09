@@ -16,9 +16,10 @@ Make sure you have a C++ compiler installed on your system.
 cd /path/to/source/code
 ```
 Compile the program.
-
+```bash
 g++ -std=c++11 main.cpp -o main
-
+```
 Run the executable.
-
+```bash
 ./main
+```
